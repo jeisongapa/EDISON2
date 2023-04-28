@@ -57,7 +57,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/bandera-128x128.png",
-    "mbrsiteDomain": "mxvjhh51ke",
+    "mbrsiteDomain": "q39w4tmxzu",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -73,8 +73,8 @@
     "global_header_custom": "",
     "global_after_body": "\n\n \n",
     "chatbutton": {},
-    "global_footer_custom": "\n\n",
-    "publishChangesOnly": false,
+    "global_footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/644c15144247f20fefee5b88/1gv4j4mej';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->\n",
+    "publishChangesOnly": true,
     "canonical-url": false
   },
   "pages": {
